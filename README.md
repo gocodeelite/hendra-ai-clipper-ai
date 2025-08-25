@@ -16,3 +16,4 @@ Ini berisi semua yang Anda perlukan untuk menjalankan aplikasi Anda secara lokal
     Aturdi file **`.env.local`** dengan kunci API Anda.
 3.  **Jalankan Aplikasi:**
     `npm run dev`# clipper
+# clipper
